@@ -1,0 +1,19 @@
+{
+  "name": "backgroundgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klamb-79/backgroundgen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klamb-79/backgroundgen/issues"
+  },
+  "homepage": "https://github.com/klamb-79/backgroundgen#readme"
+}
