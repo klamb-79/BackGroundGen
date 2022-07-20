@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/klamb-79/backgroundgen/issues"
   },
-  "homepage": "https://github.com/klamb-79/backgroundgen#readme"
+  "homepage": "https://github.com/klamb-79/backgroundgen#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
